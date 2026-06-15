@@ -1,0 +1,12 @@
+# Travaux Pratiques-Programmation & Algorithme
+ce dépot rassemble les projets, exercices et travaux pratiques (TP) que j'ai réalisé durant mon parcours à la faculté des sciences de l'université de Douala au Cameroun 
+# Objectif
+ce dossier sert de portfolio technique dans le cadre de mes candidatures pour une licence 3 en informatique en France pour l'année universitaire. Il démontre mes compétences pratiques et la structure des enseignements suivis.
+## Technologies & langages utilisés
+Langages: C/C++/
+Outils: Vs code,
+Systèmes:
+## Contenu du dossier
+## Contact
+Nom: NYAMSI NANA URIELLE MICHELLE
+Université d'origine: université de Douala (Faculté des sciences)
